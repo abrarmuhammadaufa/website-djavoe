@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/djavoe-website/static/css/main.3d126599.css",
+    "main.js": "/djavoe-website/static/js/main.06641622.js",
+    "static/js/787.8feb567a.chunk.js": "/djavoe-website/static/js/787.8feb567a.chunk.js",
+    "static/media/logo.png": "/djavoe-website/static/media/logo.2efa2413236cd3bebe38.png",
+    "index.html": "/djavoe-website/index.html",
+    "main.3d126599.css.map": "/djavoe-website/static/css/main.3d126599.css.map",
+    "main.06641622.js.map": "/djavoe-website/static/js/main.06641622.js.map",
+    "787.8feb567a.chunk.js.map": "/djavoe-website/static/js/787.8feb567a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d126599.css",
+    "static/js/main.06641622.js"
+  ]
+}
